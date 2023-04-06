@@ -1,3 +1,7 @@
+## ON WHICH PLATFORM IT WORKS?
+
+download netlogo https://ccl.northwestern.edu/netlogo/download.shtml
+
 ## WHAT IS IT?
 
 This model simulates highway traffic. Based on an incoming car flow and a fixed speed, the model demonstrates when a traffic jam develops and estimates the waiting time for motorists.
@@ -62,6 +66,7 @@ The scales used in the code are specific:
 
 
 ## HOW TO USE IT
+
 
 Set the setpoint of the car flow / minute and the desired speed. If the traffic is fluid the average speed will reach the fixed speed and no traffic jam time will be counted.
 
