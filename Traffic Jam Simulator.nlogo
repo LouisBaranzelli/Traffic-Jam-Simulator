@@ -729,7 +729,7 @@ AVG_SPEED_TARGET
 AVG_SPEED_TARGET
 40
 150
-127.0
+76.0
 1
 1
 NIL
@@ -778,7 +778,7 @@ FLOW_CAR_MIN_TARGET
 FLOW_CAR_MIN_TARGET
 1
 300
-257.0
+111.0
 2
 1
 NIL
@@ -955,7 +955,7 @@ Note the evolution of the traffic jam time which evolves.
 
 
 ## SHARE THIS WORK
-Possible
+copyright
 
 
 ## AUTHOR
