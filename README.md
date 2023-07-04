@@ -82,7 +82,7 @@ Note the evolution of the traffic jam time which evolves.
 
 
 ## SHARE THIS WORK
-Possible
+copyright
 
 
 ## AUTHOR
