@@ -59,7 +59,7 @@ Each drive as his own attitude equivalent to an indice equal to a normal distibu
 The scales used in the code are specific:
 
 - 10 ticks = 1 seconds
-- The baking distances are in (m)
+- The braking distances are in (m)
 - The coordinate differences using ycor are such that ycor1 - ycor2 = 1 = 10m
 - speed = 1 (in the simulation) = (1 * 360) km/h in reality = 100 m/s.
 - The height of the road from top to bottom: 100 units = 1km
